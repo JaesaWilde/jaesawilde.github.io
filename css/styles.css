@@ -10855,7 +10855,8 @@ textarea.form-control-lg {
 }
 
 #sidebar-wrapper .list-group {
-  width: 18rem;
+  width: fit-content;
+  padding-right: 10px;
 }
 
 #page-content-wrapper {
