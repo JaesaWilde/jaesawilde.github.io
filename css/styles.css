@@ -10842,8 +10842,8 @@ textarea.form-control-lg {
   min-height: 100vh;
   margin-left: -15rem;
   transition: margin 0.25s ease-out;
-  color: #171717 !important;
-  width: auto;
+  color: #636464 !important;
+  width: 400px;
 }
 
 #sidebar-wrapper .sidebar-heading {
@@ -10851,12 +10851,13 @@ textarea.form-control-lg {
   font-size: 1.2rem;
   font-weight: bolder;
   color: white;
+  letter-spacing: 5px;
+  text-decoration: none;
   background-color: black !important;
 }
 
 #sidebar-wrapper .list-group {
   width: fit-content;
-  padding-right: 10px;
 }
 
 #page-content-wrapper {
