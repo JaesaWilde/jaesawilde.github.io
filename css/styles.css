@@ -10843,13 +10843,15 @@ textarea.form-control-lg {
   margin-left: -15rem;
   transition: margin 0.25s ease-out;
   color: #171717 !important;
-  width: 300px !important;
+  width: 450px !important;
 }
 
 #sidebar-wrapper .sidebar-heading {
   padding: 0.875rem 1.25rem;
   font-size: 1.2rem;
-  background-color: red !important;
+  font-weight: bolder;
+  color: white;
+  background-color: black !important;
 }
 
 #sidebar-wrapper .list-group {
