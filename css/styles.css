@@ -10843,7 +10843,7 @@ textarea.form-control-lg {
   margin-left: -15rem;
   transition: margin 0.25s ease-out;
   color: #171717 !important;
-  width: 450px !important;
+  width: fit-content;
 }
 
 #sidebar-wrapper .sidebar-heading {
