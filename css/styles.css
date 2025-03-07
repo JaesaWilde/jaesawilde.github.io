@@ -10857,6 +10857,7 @@ textarea.form-control-lg {
   letter-spacing: 5px;
   text-decoration: none;
   background-color: black !important;
+  text-align: center !important;
 }
 
 #sidebar-wrapper .list-group {
