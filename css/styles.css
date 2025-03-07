@@ -636,11 +636,14 @@ progress {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
   width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.page-content{
   padding-bottom: calc(var(--bs-gutter-x) * 1);
   padding-right: calc(var(--bs-gutter-x) * 3);
   padding-left: calc(var(--bs-gutter-x) * 3);
-  margin-right: auto;
-  margin-left: auto;
 }
 
 @media (min-width: 576px) {
@@ -10951,4 +10954,16 @@ header.masthead {
 
 p{
   text-align: justify;
+}
+
+.sticky-list {
+  position: sticky !important;
+  top: 0px !important; /* Définit la position sticky par rapport au haut de la fenêtre */
+  z-index: 10 !important; /* Pour s'assurer que la liste passe au-dessus du contenu */
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.anchor-offset {
+  scroll-margin-top: 150px;
 }
