@@ -10970,3 +10970,14 @@ p{
 .anchor-offset {
   scroll-margin-top: 150px;
 }
+
+.three-column-grid {
+  display: grid;
+  grid-template-columns: repeat(3, auto); /* 3 colonnes auto-ajustées */
+  gap: 40px; /* Espacement entre les colonnes */
+  align-items: start; /* Aligner les tableaux en haut */
+}
+
+.three-column-grid table {
+  border-collapse: collapse;
+}
