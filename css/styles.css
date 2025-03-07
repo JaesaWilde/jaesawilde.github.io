@@ -100,7 +100,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-bg);
   text-align: var(--bs-body-text-align);
-  background-color: #1e1e1e;
+  background-color: #171717;
   -webkit-text-size-adjust: 120%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   text-shadow: 0px 0px 12px black;
@@ -10848,7 +10848,7 @@ textarea.form-control-lg {
   margin-left: -15rem;
   transition: margin 0.25s ease-out;
   color: #636464 !important;
-  width: 400px;
+  width: 390px;
 }
 
 #sidebar-wrapper .sidebar-heading {
