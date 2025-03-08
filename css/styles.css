@@ -10973,12 +10973,14 @@ p{
 
 .three-column-grid {
   display: grid;
-  grid-template-columns: repeat(3, auto); /* 3 colonnes auto-ajustées */
-  gap: 40px; /* Espacement entre les colonnes */
-  align-items: start; /* Aligner les tableaux en haut */
+  grid-template-columns: repeat(3, 1fr); /* 3 colonnes de largeur égale */
+  gap: 40px; /* Espacement entre les tables */
+  justify-content: center; /* Centre la grille horizontalement */
 }
 
 .three-column-grid table {
+  width: 100%; /* Chaque table prend toute la place de sa colonne */
+  table-layout: fixed; /* Force une largeur fixe, évite que le contenu n’étire les colonnes */
   border-collapse: collapse;
 }
 
