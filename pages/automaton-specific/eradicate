@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Automaton | Eradicate · F.A.S Wiki</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="/css/styles.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    </head>
+    <body>
+        <div class="d-flex" id="wrapper">
+            <!-- Sidebar-->
+            <partial href="/partials/nav.html"></partial>
+
+            <!-- Page content wrapper-->
+            <div id="page-content-wrapper-home">
+
+                <!-- Page content-->
+                    <div class="container-fluid">
+                        <header class="masthead sticky-list">
+                            <div class="container px-4 px-lg-5 h-100">
+                                <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+                                    <div class="col-lg-8 align-self-end">
+                                        <h1 class="text-white font-weight-bold"><img src="/assets/Eradicate_Automaton_Forces_Mission_Icon.svg" alt="Icon" style="height: 35px; margin-right: 10px;">· Eradicate Automaton Forces ·<img src="../../assets/Automatonoutposticon.png" alt="Icon" style="height: 30px; margin-left: 10px;"></h1>
+                                        <hr class="divider" />
+                                    </div>
+                                    <div class="col-lg-8 align-self-baseline">
+                                        <ul>
+                                            <a href="#overview"><li>Overview</li></a>
+                                            <a href="#fullstuff"><li>Full stuff</li></a>
+                                            <a href="#walkthrough"><li>Walkthrough</li></a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </header>
+
+                        <div class="page-content">
+
+                            <h3 class="mt-4 anchor-offset" id="overview">Overview</h3>
+
+                            <p>A wonderful no-brainer mission. A great Any% one is a <b>Burn em all</b>. All the reinforcements are properly burned down to 0 throughout the mission without slowing down its completion. Otherwise, it will become a <b>Run a burn</b> one and it has to be <b>avoided at all costs</b>.</p>
+
+                            <p>A good reference time is <b>2:00</b>. Below, the run is <b>excellent</b>. <b>Above 2:20</b>, the run is <b>average</b>.</p>
+
+                            <hr class="divider" />
+
+                            <h3 class="mt-4 anchor-offset" id="fullstuff">Full Stuff</h3>
+
+                            <div class="three-column-grid">
+                                <table>
+                                <tr><th>Stratagems</th></tr>
+                                <tr><td><img src="/assets/50px-Portable_Hellbomb_Stratagem_Icon.webp" alt="Icon" style="height: 30px; margin-right: 10px;">Portable Hellbomb</td></tr>
+                                <tr><td><img src="/assets/120px-Eagle_500kg_Bomb_Stratagem_Icon.webp" alt="Icon" style="height: 30px; margin-right: 10px;">Eagle 500kg Bomb</td></tr>
+                                <tr><td><img src="/assets/120px-Orbital_Laser_Stratagem_Icon.webp" alt="Icon" style="height: 30px; margin-right: 10px;">Orbital Laser</td></tr>
+                                <tr><td><img src="/assets/120px-Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" alt="Icon" style="height: 30px; margin-right: 10px;">Orbital 380mm HE Barrage</td></tr>
+                                </table>
+                                <table>
+                                <tr><th>Equipment</th></tr>
+                                <tr><td><img src="/assets/100px-Engineering_Kit_Armor_Passive_Icon.webp" alt="Icon" style="height: 30px; margin-right: 10px;">Light/Medium Engineering Kit armor</td></tr>
+                                <tr><td>Explosive Crossbow</td></tr>
+                                <tr><td>Ultimatum</td></tr>
+                                <tr><td>Seeker</td></tr>
+                                </table>
+                                <table>
+                                <tr><th>Boosters</th></tr>
+                                <tr><td><img src="/assets/Hellpod_Space_Optimization_Booster_Icon.svg" alt="Icon" style="height: 30px; margin-right: 10px;">Hellpod Space Optimization</td></tr>
+                                <tr><td><img src="/assets/Stamina_Enhancement_Booster_Icon.svg" alt="Icon" style="height: 30px; margin-right: 10px;">Stamina Enhancement</td></tr>
+                                <tr><td><img src="/assets/Firebomb_Hellpods_Booster_Icon.svg" alt="Icon" style="height: 30px; margin-right: 10px;">Firebomb Hellpods</td></tr>
+                                <tr><td><img src="/assets/Experimental_Infusion_Booster_Icon.svg" alt="Icon" style="height: 30px; margin-right: 10px;">Experimental Infusion</td></tr>
+                                </table>
+                            </div>
+
+                            <hr class="divider" />
+
+                            <h3 class="mt-4 anchor-offset" id="walkthrough">Walkthrough</h3>
+
+                            <ol>
+                                <li>Designate a runner that will mostly <b>kill themselves</b> all along the run</li>
+                                <li>Just after you pod, call in the <b>Portable Hellbombs</b> and <b>squad kill twice</b> to let them and enemies spawn. Do it while letting <b>light bots popping a flare</b> to increase dropships number</li>
+                                <li>Three runners grab a <b>Hellbomb</b> while the fourth one <b>kills themselves</b> over and over</li>
+                                <li>Seek for a <b>big clusters of enemies</b> to throw yourself with a <b>Hellbomb</b>. The cherry on the top is a <b>Factory Strider</b>. You may also throw <b>Seeker grenades</b> at little groups of enemies in order to <b>multiply kills</b></li>
+                                <li>When your <b>Hellbomb</b> is used, throw <b>Seeker grenades</b> as you respawn and <b>kill yourself</b> to burn reinforcements</li>
+                                <li>If the <b>Hellbombs</b> were not enough to complete main objective, throw everything you have. <b>Lasers</b>, <b>Orbital Barrages</b>, <b>Eagles</b></li>
+                                <ul>
+                                    <li>Keep an eye on how many reinforcements are left in order to <b>burn the last ones</b> as you approach <b>100% completion</b> without risking to trigger the end of the mission before it is completed</li>
+                                </ul>
+                            </ol>
+
+                            <div class="video-container">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/esdcRI6-m54?si=9QfuuoRtzMuJMcgv&amp;start=131" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                              
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/yHatVAmd6Us?si=A60BKD6LiY1OZIi-&amp;start=142" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
+
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/staa99/partials.js@3.0.0/partials.min.js"
+        integrity="sha512-LaOeBdWQUe/9ZjUDbuwXqx34mvjpkO+z7XnHMzVVnd88vhPXZWM8zsp5tVaGPxBVBHVa1do2BahVa7IBippvow=="
+        crossorigin="anonymous"></script>
+    </body>
+</html>
