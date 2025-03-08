@@ -10994,3 +10994,7 @@ p{
 iframe {
   margin-bottom: 1rem;
 }
+
+ol > * {
+  line-height: 2;
+}
