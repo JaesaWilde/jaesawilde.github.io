@@ -10998,3 +10998,13 @@ iframe {
 ol > * {
   line-height: 2;
 }
+
+.walkthrough_secondary_icons {
+  height: 20px;
+  margin: 0px 3px 6px 3px;
+}
+
+.walkthrough_stratagem_icons {
+  height: 30px;
+  margin: 0px 3px 6px 3px;
+}
