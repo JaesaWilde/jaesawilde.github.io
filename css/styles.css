@@ -11029,3 +11029,19 @@ ol > * {
   border-collapse: collapse;
   text-align: center;
 }
+
+.weapon_two_handed {
+  width: 50px;
+  margin-right: 5px;
+}
+
+.weapon_one_handed {
+  height: 18px;
+  margin-right: 5px;
+}
+
+.grenades {
+  height: 20px;
+  margin-right: 5px;
+  margin-bottom: 3px;
+}
