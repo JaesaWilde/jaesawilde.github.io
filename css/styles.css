@@ -11016,3 +11016,16 @@ ol > * {
   height: 30px;
   margin: 0px 1px 6px 3px;
 }
+
+.two-by-two-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.two-by-two-grid table {
+  border-collapse: collapse;
+  text-align: center;
+}
