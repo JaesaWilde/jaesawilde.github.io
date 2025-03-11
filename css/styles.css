@@ -10991,6 +10991,14 @@ p{
   flex-wrap: wrap; /* Permet de passer en colonne si l’écran est trop petit */
 }
 
+.video-container-multiple {
+  display: flex;
+  justify-content: center; /* Centre horizontalement */
+  gap: 20px; /* Espacement entre les vidéos */
+  flex-wrap: wrap; /* Permet de passer en colonne si l’écran est trop petit */
+  margin-bottom: 20px;
+}
+
 iframe {
   margin-bottom: 1rem;
 }
