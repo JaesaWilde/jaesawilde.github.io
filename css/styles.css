@@ -11005,7 +11005,7 @@ iframe {
   margin-bottom: 1rem;
 }
 
-ol > * {
+.list-line, ol > * {
   line-height: 2;
 }
 
