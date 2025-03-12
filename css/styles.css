@@ -10953,6 +10953,7 @@ header.masthead {
   grid-template-columns: auto 1fr; /* La table prend sa taille naturelle, le texte prend le reste */
   gap: 20px; /* Espacement entre la table et le texte */
   align-items: start; /* Aligner le contenu en haut */
+  margin-bottom: 1rem;
 }
 
 p{
@@ -10989,6 +10990,7 @@ p{
   justify-content: center; /* Centre horizontalement */
   gap: 20px; /* Espacement entre les vidéos */
   flex-wrap: wrap; /* Permet de passer en colonne si l’écran est trop petit */
+  margin-bottom: 1rem;
 }
 
 .video-container-multiple {
@@ -11045,3 +11047,5 @@ ol > * {
   margin-right: 5px;
   margin-bottom: 3px;
 }
+
+
