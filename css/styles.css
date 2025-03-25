@@ -11063,3 +11063,7 @@ iframe {
   display: inline-block;
   justify-content: space-between;
 }
+
+#teapot {
+  height: 450px;
+}
