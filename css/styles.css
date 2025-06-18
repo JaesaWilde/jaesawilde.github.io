@@ -11068,3 +11068,7 @@ p{
 .after-table {
   margin-bottom: 1rem;
 }
+
+.list-in-table {
+  margin-top: none;
+}
