@@ -11072,3 +11072,8 @@ p{
 .list-in-table {
   margin: 5px 0 5px -15px;
 }
+
+nav div#terminids-multiplayer-sub-nav.nav.nav-pills.mb-3 {
+  margin-top: -50px;
+  margin-left: 160px;
+}
